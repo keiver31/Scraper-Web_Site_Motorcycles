@@ -2,6 +2,9 @@
 
 ###
 
+[Sitio Web de Notificación]([https://mi-repositorio.sharepoint.com/sites/mi-repositorio](https://aerobic-copilot-449214-n9.uc.r.appspot.com/))
+
+
 <br clear="both">
 
 <h4 align="left">Este proyecto permite realizar la extracción de información desde el sitio web Carroya - Motos(https://www.carroya.com/motos) . Los datos obtenidos son limpiados y almacenados en un archivo CSV, que posteriormente se guarda en un bucket de Google Cloud Storage. Además, cuenta con una interfaz en HTML y JavaScript que se encarga de generar un scrapeo cada vez que el usuario lo desee, así mediante WhatsApp se entrega una notificación de que proceso ha finalizado , junto a un archivo csv que el usuario puede descargar.<br><br>El proyecto está compuesto por los siguientes componentes:<br><br>1) Diagrama funcional<br>2)Scraping de Carroya.com<br>3)Procesamiento y limpieza de datos<br>4)Almacenamiento en Google Cloud<br>5)Notificación por WhatsApp<br>6) Deploy</h4>
