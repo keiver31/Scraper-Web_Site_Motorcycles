@@ -81,6 +81,10 @@
 
 <h4 align="left">6.1) En local<br><br>6.1.1) Instalación<br>-python -m venv env<br><br><br>6.1.2) Ejecución<br>-Ejecutar ".\env\Scripts\activate"<br>-Ejecutar "main.py"<br>-Para desactivar el ambiente virtual, ejecutar "deactivate"<br><br>Nota: En "main.py" descomentar las lineas 46 y 47, comentar las lineas 48 y 49.<br><br>6.2) En Google Cloud<br><br>6.2.1) Ejecución<br>-Ejecutar "gcloud auth login"<br>-Configurar el proyecto , ejecutando "gcloud config set project [ID DEL PROYECTO]" <br>-Acceder a la carpeta en la cual se encuentra el proyecto a ejecutar, cd "[RUTA PROYECTO]<br>-Ejecutar "gcloud app deploy"<br><br>Nota: En "main.py" comentar las lineas 46 y 47, descomentar las lineas 48 y 49.</h4>
 
+<br clear="both">
+
+<h3 align="left">Tecnologías implementadas/h3>
+
 ###
 
 <div align="left">
