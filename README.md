@@ -2,7 +2,7 @@
 
 ###
 
-[Sitio Web de Notificación]([https://mi-repositorio.sharepoint.com/sites/mi-repositorio](https://aerobic-copilot-449214-n9.uc.r.appspot.com/))
+[Sitio Web de Notificación](https://mi-repositorio.sharepoint.com/sites/mi-repositorio](https://aerobic-copilot-449214-n9.uc.r.appspot.com/)
 
 
 <br clear="both">
