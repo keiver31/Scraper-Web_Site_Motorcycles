@@ -1,0 +1,21 @@
+brand,city,fuel,year,color,type,status,transmission,cylinder,kilometers,price
+AKT,MEDELLIN,Gasolina,2024,Azul,Enduro / Cross  ,usado,Mecánica,195,8200,8500000
+Yamaha,SABANETA,Gasolina,2023,Gris,Scooter,usado,Automática,155,10827,15000000
+Bajaj,MEDELLIN,Gasolina,2025,Azul,Trabajo / Calle,usado,Mecánica,165,21000,9000000
+Yamaha,LA ESTRELLA,Gasolina,2023,Vinotinto,Deportivas ,usado,Mecánica,250,17000,13800000
+Yamaha,SABANETA,Gasolina,2022,Gris,Trabajo / Calle,usado,Mecánica,149,22000,7990000
+Suzuki,LA ESTRELLA,Gasolina,2025,Azul,Trabajo / Calle,usado,Mecánica,115,3500,5700000
+VICTORY,SABANETA,Gasolina,2022,Negro,Scooter,usado,Automática,125,18300,5800000
+TVS,MEDELLIN,Gasolina,2023,Negro,Trabajo / Calle,usado,Mecánica,200,15000,11200000
+KTM,LA ESTRELLA,Gasolina,2022,Blanco,Deportivas ,usado,Mecánica,200,13877,15000000
+AKT,SANTAFE DE ANTIOQUIA,Gasolina,2023,Verde,Scooter,usado,Automática,0,11800,7300000
+Bajaj,ABRIAQUI,Gasolina,2025,Azul,Trabajo / Calle,usado,Mecánica,100,100,4600000
+Suzuki,SABANETA,Gasolina,2025,Negro,Deportivas ,usado,,155,100,10000000
+Bajaj,SABANETA,Gasolina,2022,Negro,Trabajo / Calle,usado,Mecánica,124,19660,5900000
+VICTORY,LOS PATIOS,Gasolina,2024,Rojo,Trabajo / Calle,usado,Mecánica,149,21800,6500000
+Auteco,MADRID,Gasolina,2019,Negro,Trabajo / Calle,usado,Mecánica,125,18000,5000000
+Yamaha,SABANETA,Gasolina,2021,Verde,Trabajo / Calle,usado,Mecánica,124,7500,6500000
+Yamaha,ENVIGADO,Gasolina,2023,Blanco,Enduro / Cross  ,usado,Mecánica,125,21293,9200000
+VICTORY,MEDELLIN,Gasolina,2021,Negro,Scooter,usado,Automática,171,7100,8500000
+Bajaj,SABANETA,Gasolina,2022,Gris,Trabajo / Calle,usado,Mecánica,199,18500,10000000
+Bajaj,MEDELLIN,Gasolina,2024,Negro,Trabajo / Calle,usado,Mecánica,250,5514,13000000

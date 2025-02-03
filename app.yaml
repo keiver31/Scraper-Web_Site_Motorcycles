@@ -1,0 +1,21 @@
+runtime: python310
+
+entrypoint: gunicorn -b :$PORT main:app
+
+env_variables:
+  # Puedes añadir otras variables de entorno aquí, como credenciales o configuraciones de base de datos si las necesitas
+  # TWILIO_ACCOUNT_SID: "your_twilio_account_sid"
+  # TWILIO_AUTH_TOKEN: "your_twilio_auth_token"
+
+instance_class: F2  # Puedes cambiar a otro tipo de instancia si lo necesitas
+
+automatic_scaling:
+  min_instances: 1
+  max_instances: 10
+
+handlers:
+  - url: /static
+    static_dir: static/
+  - url: /.*
+    script: auto
+

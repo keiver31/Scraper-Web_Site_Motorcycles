@@ -1,0 +1,15 @@
+[
+    {
+        "brand": "Yamaha",
+        "cciudadplaca": "Bogotá",
+        "ccombustible": "Gasolina",
+        "cmodeloint": "2022",
+        "color": "Negro",
+        "ctipo": "Deportiva",
+        "ctipoaviso": "Venta",
+        "ctipocaja": "Manual",
+        "cylindrical": "150cc",
+        "kilometers": "10000",
+        "price": "15000000"
+    }
+]

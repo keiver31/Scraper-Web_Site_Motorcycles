@@ -1,0 +1,5 @@
+cron:
+- description: "Ejecutar la tarea cada 5 minutos"
+  url: /tarea
+  schedule: every 5 minutes
+  target: default

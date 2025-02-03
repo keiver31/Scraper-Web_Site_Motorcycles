@@ -1,0 +1,5 @@
+requests==2.32.3
+flask==3.1.0
+gunicorn==23.0.0
+google-cloud-storage==2.19.0
+twilio==9.4.4
